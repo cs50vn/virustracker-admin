@@ -1,0 +1,5 @@
+vue/dist
+vue/node_modules
+_generated
+.vscode
+.idea
